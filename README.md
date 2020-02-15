@@ -45,7 +45,7 @@ The following prerequisites must be completed prior to beginning this lab:
 * Have internet access.
 * Have basic Java app development knowledge.
 * Have an IBM Cloud Managed OpenShift Cluster deployed with the IBM Cloud Pak for Applications installed. To go through the process of installing IBM Cloud Pak for Applications, please follow:
- *https://cloud.ibm.com/docs/cloud-pak-applications?topic=cloud-pak-applications-getting-started#step-1-configure-your-installation-environment*
+[Install Cloud Pak for Applications](https://cloud.ibm.com/docs/cloud-pak-applications?topic=cloud-pak-applications-getting-started#step-1-configure-your-installation-environment)
 * Tools:
   * [oc](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli)
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
