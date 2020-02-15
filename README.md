@@ -1,4 +1,4 @@
-# Evaluate On-Premises JavaApplication with IBM Cloud Transformation Advisor on IBM Cloud Managed OpenrShift and Cloud Pak for Applications
+# Evaluate On-Premises JavaApplication with IBM Cloud Transformation Advisor on IBM Cloud Managed OpenShift and Cloud Pak for Applications
 
 **Note: this lab is adopted from:
 *https://www.onlinedigitallearning.com/mod/page/view.php?id=74202*
