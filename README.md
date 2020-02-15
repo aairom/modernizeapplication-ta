@@ -55,12 +55,12 @@ The following prerequisites must be completed prior to beginning this lab:
   * [Install on Windows 10 - Instructions](https://docs.docker.com/docker-for-windows/install/)
 
 # Cookbook
-1. [Install Cloud for Application](./CloudPak_Applications.md)
+1. [Install Cloud Pak for Applications](./CloudPak_Applications.md)
 2. [Data Collection for Analysis & Modernization](./DataCollection.md)
-3. [Analyze Application Data in TA](./Analyze_TA.md)
-4. [Create Migration Bundle](./MigrationBundle.md)
-5. [Containerize the Application](./Containerize_Application.md)
-6. [Deploy the Application](./Deploy_Application.md)
+3. [Analyze Application Data in TA - Tutorial for Fast Start 2020](./Analyze_TA.md)
+4. [Create Migration Bundle - Optional](./MigrationBundle.md)
+5. [Containerize the Application - Optional](./Containerize_Application.md)
+6. [Deploy the Application - Optional](./Deploy_Application.md)
 
 ## Reference Materials
 
